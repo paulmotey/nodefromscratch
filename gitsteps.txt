@@ -43,3 +43,19 @@ get add gitsteps.tst
 
 git config --global core.editor kate
 
+git push origin master
+Username for 'https://github.com': paulmotey
+Password for 'https://paulmotey@github.com': 
+Counting objects: 4, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 1.23 KiB | 0 bytes/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/paulmotey/nodefromscratch.git
+   c35fc14..73945e0  master -> master
+
+   so make some changes and push again but it has to be staged "I assume"
+   but I will try without first and just edit this and push
+   
+   
+   
