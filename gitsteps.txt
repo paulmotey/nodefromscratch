@@ -65,7 +65,16 @@ To https://github.com/paulmotey/nodefromscratch.git
    a reference is::
    https://help.github.com/articles/generating-ssh-keys/
    now to see if that works
-   
+   So the SSH is setup and it works okay
+Basically when a change is made in this file I do the following:
+Where the name is probably optional for this but can tell somebody why I did that commit so to finish this part
+and go on to establishing a framework for a node.js sails and express app I will close out this until new
+information on using git needs to be documented.
+
+   git add gitsteps.txt
+   git commit -m "basic GIT push and ssh is understood"
+   git push origin master
+
    
    
    
