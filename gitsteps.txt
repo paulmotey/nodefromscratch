@@ -57,5 +57,6 @@ To https://github.com/paulmotey/nodefromscratch.git
    so make some changes and push again but it has to be staged "I assume"
    but I will try without first and just edit this and push
    
+   I have to add this file and then push, but first I am going to config my name and password locally
    
    
