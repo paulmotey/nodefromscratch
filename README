@@ -1,0 +1,5 @@
+The point of this GIT is to have a template and reference to how a node.js application can be instantiated
+as well as review the major concepts involved and document what difficulties can arise.
+The first issue is to create a git repository and determine what common usage actually does.
+So... first I will push and commit?
+
