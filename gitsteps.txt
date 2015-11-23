@@ -59,4 +59,13 @@ To https://github.com/paulmotey/nodefromscratch.git
    
    I have to add this file and then push, but first I am going to config my name and password locally
    
+   Now I am doing the SSH switch so I can avoid entering name and password every time
+   
+   Looks like it worked 
+   a reference is::
+   https://help.github.com/articles/generating-ssh-keys/
+   now to see if that works
+   
+   
+   
    
