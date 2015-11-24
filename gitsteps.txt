@@ -75,6 +75,26 @@ information on using git needs to be documented.
    git commit -m "basic GIT push and ssh is understood"
    git push origin master
 
+   cd ..
+   git clone git@github.com:lukegeiken4/Hypeline.git
    
+What is really odd is the asynchronous nature of things in node.js and mongoDB
+I tried some actions and when I realized what was happening I had to laugh.
+As somebody who started out writing programs in hexadecimal and making my own ALU,
+I am well versed in the synchronous world and interrupts as well as CLI and STI
+can be a real bear to deal with in an application.
+node.js is like a herd of cats tring to catch mice and you really have
+to bet that the cat is going to finally catch "some" mouse eventually
+I am still laughing as it is such a wonderful thing to know as it
+solves so many problems.
+The brain acts "somewhat" like this and it will get in a mode,
+but then it finds another node.
+
+db.test_collection.find()
+That is a good thing when running mongo to see what has been done to the base
+https://docs.mongodb.org/manual/reference/mongo-shell/
+
+
+
    
    
